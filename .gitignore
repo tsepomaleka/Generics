@@ -1,4 +1,11 @@
-target/
+**/target/*
+**/build/**
+**/dist/***
+**/output/**
+**/out/**
+**/classes/**
+**.idea/**
+*.class
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
